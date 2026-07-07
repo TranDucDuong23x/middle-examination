@@ -1,0 +1,13 @@
+/workspaces/middle-examination/lab2/src/main/java/context/DBContext.java
+/workspaces/middle-examination/lab2/src/main/java/context/DBContext1.java
+/workspaces/middle-examination/lab2/src/main/java/dao/ProductDAO.java
+/workspaces/middle-examination/lab2/src/main/java/dao/RecordDAO.java
+/workspaces/middle-examination/lab2/src/main/java/dao/UserDAO.java
+/workspaces/middle-examination/lab2/src/main/java/model/Product.java
+/workspaces/middle-examination/lab2/src/main/java/model/Record.java
+/workspaces/middle-examination/lab2/src/main/java/model/User.java
+/workspaces/middle-examination/lab2/src/main/java/servlet/DeleteServlet.java
+/workspaces/middle-examination/lab2/src/main/java/servlet/LoginServlet.java
+/workspaces/middle-examination/lab2/src/main/java/servlet/SqlInjectionFilter.java
+/workspaces/middle-examination/lab2/src/main/java/servlet/StudentServlet.java
+/workspaces/middle-examination/lab2/src/main/java/servlet/UpdateServlet.java
