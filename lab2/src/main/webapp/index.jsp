@@ -1,4 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+
 <%@ page import="java.util.List" %>
 <%@ page import="model.Record" %>
 <%@ page import="dao.*" %>
@@ -35,6 +36,7 @@ label
 {
     display:block;
 }
+
 .form_group
 {
     display: block;
@@ -79,7 +81,7 @@ th.bovien
 
      
 
-        <div style="width:1000px; height: 300px; background-color: #eaf5d7;">
+        <div style="width:1000px; height: 300px; background-color: #8ad10f;">
 
             <h1>Student Regiter Form</h1>
 
@@ -122,7 +124,7 @@ th.bovien
 
 
 <div id="container" style="width: 100%;  display: flex; justify-content: center;   ">
-     <div style="width:1000px; height: 300px; background-color: #f5f1d7;">
+     <div style="width:1000px; height: 300px; background-color: #e1c50c;">
 
             <table class="bovien">
                 <tr class="bovien">
